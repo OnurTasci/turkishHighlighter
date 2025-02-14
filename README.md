@@ -19,4 +19,4 @@ A lightweight JavaScript library to highlight Turkish characters (such as İ, Ş
         // Display the highlighted text
         document.getElementById('highlighted-text').innerHTML = highlightedText;
     </script>
-```html
+```
